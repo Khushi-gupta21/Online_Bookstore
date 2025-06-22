@@ -17,16 +17,9 @@ This project is a simple, responsive **Online Book Store website** built using *
 - 🏠 **Home Page** with navigation menu and featured books  
 - 📖 **Book Catalog** section displaying available books with pricing  
 - 🔍 **Search Functionality** (static or form-based)  
-- 🔐 **Login System** using SQL (MySQL or XAMPP setup)  
+- 🔐 **Login System** using SQL (XAMPP setup)  
 - 🧍‍♂️ **User Registration** and session simulation (if implemented)  
 - 📱 Fully responsive design using pure CSS  
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots after uploading images to your GitHub repo)*  
-Example:
-```markdown
-![Home Page](images/homepage.png)
-![Login Page](images/login_form.png)
